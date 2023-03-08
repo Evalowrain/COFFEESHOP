@@ -1,0 +1,1 @@
+This project is recreating a website design for Code Louisville, an education program for non-traditional would-be developers. It uses HTML, CSS and JavaScript.
